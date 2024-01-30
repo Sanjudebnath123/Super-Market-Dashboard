@@ -18,7 +18,7 @@ The project also answered important questions such as :-
 2. Who purchased more , men or women in 2022 ?
 3. What are different order statuses ?
 4. Which are the top 10 states contributing to sales?
-5.  What is the relation between age and gender based on the number of orders?
+5. What is the relation between age and gender based on the number of orders?
 6. Which channel is contributing maximum sales ? 
 7. Top clothings category got the highest number of order ?
 
@@ -44,7 +44,7 @@ The project also answered important questions such as :-
 
 5.  The adult age group (30-49 yrs) made the most contributions.
  <p align="center">
-  <img width="400" height="200" src="Super market Charts/Men vs Women.png ">
+  <img width="400" height="200" src="Super market Charts/Age & Gender vs order.png ">
 </p>
 
 6. Amazon, Flipkart and Myntra channels were the top contributors.
