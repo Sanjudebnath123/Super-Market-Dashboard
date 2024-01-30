@@ -40,16 +40,9 @@ The project also answered important questions such as :-
   <img width="400" height="200" src="Super market Charts/Men vs Women.png ">
 </p>
 4. Top 10 states :
- 1. MAHARASHTRA
- 2. KARNATAKA
- 3. UTTAR PRADESH
- 4. TAMIL NADU
- 5. TELANGANA
- 6. DELHI
- 7. KERALA
- 8. WESTBENGAL
- 9. ANDHRA PRADESH
- 10. HARYANA
+ <p align="center">
+  <img width="400" height="200" src="Super market Charts/Men vs Women.png ">
+</p>
 5.  The adult age group (30-49 yrs) made the most contributions.
  <p align="center">
   <img width="400" height="200" src="Super market Charts/Men vs Women.png ">
