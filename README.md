@@ -40,9 +40,9 @@ The project also answered important questions such as :-
    - The remaining percentage consists of orders that are "Cancelled", "Refunded," or "Returned".
 
 4. Top 10 states :
-   <p align="center">
-   <img width="400" height="200" src="Super market Charts/Top 10 states.png ">
-   </p>
+<p align="center">
+  <img width="400" height="200" src="Super market Charts/Top 10 states.png ">
+  </p>
 
 5.  The adult age group (30-49 yrs) made the most contributions.
   <p align="center">
