@@ -36,18 +36,22 @@ The project also answered important questions such as :-
 3. In my dataset, the different order statuses are primarily categorized as:
 - 92.25% of orders are marked as "Delivered".
 - The remaining percentage consists of orders that are "Cancelled", "Refunded," or "Returned".
+
 4. Top 10 states :
  <p align="center">
   <img width="400" height="200" src="Super market Charts/Top 10 states.png ">
 </p>
+
 5.  The adult age group (30-49 yrs) made the most contributions.
  <p align="center">
   <img width="400" height="200" src="Super market Charts/Men vs Women.png ">
 </p>
+
 6. Amazon, Flipkart and Myntra channels were the top contributors.
  <p align="center">
   <img width="400" height="200" src="Super market Charts/Men vs Women.png ">
 </p>
+
 7. The 'Set' clothing category received the highest number of orders, comprising 40% of the total.
 
 Final Conclusion
