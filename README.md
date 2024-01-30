@@ -56,7 +56,7 @@ The project also answered important questions such as :-
 
 Conclusion
 -
- The final conclusion to improve store sales is to target women customers of age group (30-49 yrs) living in Maharashtra , Karnataka and Uttar Pradesh by showing ads/offers/coupons available on Amazon ,Flipkart and Myntra.
+ The final conclusion to improve store sales is to target women customers of age group (30-49 yrs) living in Maharashtra , Karnataka and Uttar Pradesh by showing ads/offers/coupons available on Amazon ,Flipkart and Myntra.To conclude a supermarket data analysis project, you would typically summarize your findings and insights, draw conclusions, and provide recommendations or insights for stakeholders. Below is a template for a conclusion in a supermarket data analysis project.
 
 
 
