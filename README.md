@@ -7,10 +7,11 @@ The "Supermarket Sales Analysis" project was undertaken with the objective of as
 
 This project includes steps as follows :
 -
-- Understanding the Problem statement
-- Data Cleaning and Preprocessing
+- Data Understanding the Problems
+- Data Cleaning
+- Data Preprocessing
 - Explotory data analysis (EDA)
-- Data visualization 
+- Data visualization with Dashboard & insights
 
 The project also answered important questions such as :-
  -
