@@ -17,10 +17,10 @@ The project also answered important questions such as :-
 1. Compare the Sales and orders using chart?
 2. Who purchased more , men or women in 2022 ?
 3. What are different order statuses ?
-5. Which are the top 10 states contributing to sales?
-6.  What is the relation between age and gender based on the number of orders?
-7. Which channel is contributing maximum sales ? 
-8. Top clothings category got the highest number of order ?
+4. Which are the top 10 states contributing to sales?
+5.  What is the relation between age and gender based on the number of orders?
+6. Which channel is contributing maximum sales ? 
+7. Top clothings category got the highest number of order ?
 
 📈 Based on the report insights ,here are the outcomes of the sales :- 
  -
@@ -36,13 +36,28 @@ The project also answered important questions such as :-
 3. In my dataset, the different order statuses are primarily categorized as:
 - 92.25% of orders are marked as "Delivered".
 - The remaining percentage consists of orders that are "Cancelled", "Refunded," or "Returned".
-
+ <p align="center">
+  <img width="400" height="200" src="Super market Charts/Men vs Women.png ">
+</p>
 4. Top 10 states :
-
+ 1. MAHARASHTRA
+ 2. KARNATAKA
+ 3. UTTAR PRADESH
+ 4. TAMIL NADU
+ 5. TELANGANA
+ 6. DELHI
+ 7. KERALA
+ 8. WESTBENGAL
+ 9. ANDHRA PRADESH
+ 10. HARYANA
 5.  The adult age group (30-49 yrs) made the most contributions.
-
+ <p align="center">
+  <img width="400" height="200" src="Super market Charts/Men vs Women.png ">
+</p>
 6. Amazon, Flipkart and Myntra channels were the top contributors.
-
+ <p align="center">
+  <img width="400" height="200" src="Super market Charts/Men vs Women.png ">
+</p>
 7. The 'Set' clothing category received the highest number of orders, comprising 40% of the total.
 
 Final Conclusion
