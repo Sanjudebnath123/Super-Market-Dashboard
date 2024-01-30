@@ -30,7 +30,9 @@ The project also answered important questions such as :-
 </p>
 
 2. Women are more likely to purchase (69%) than men.
-
+Super market Charts/Men vs Women.png  <p align="center">
+  <img width="400" height="200" src="Super market Charts/Men vs Women.png ">
+</p>
 3. In my dataset, the different order statuses are primarily categorized as:
 - 92.25% of orders are marked as "Delivered".
 - The remaining percentage consists of orders that are "Cancelled", "Refunded," or "Returned".
