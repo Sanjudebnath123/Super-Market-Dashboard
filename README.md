@@ -49,7 +49,7 @@ The project also answered important questions such as :-
 
 6. Amazon, Flipkart and Myntra channels were the top contributors.
  <p align="center">
-  <img width="400" height="200" src="Super market Charts/Men vs Women.png ">
+  <img width="400" height="200" src="Super market Charts/Channel vs sales.png ">
 </p>
 
 7. The 'Set' clothing category received the highest number of orders, comprising 40% of the total.
