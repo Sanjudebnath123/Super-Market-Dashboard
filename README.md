@@ -15,11 +15,8 @@ This project includes steps as follows :
 The project also answered important questions such as :-
  -
 1. Compare the Sales and orders using chart?
-   <p align="center">
-  <img width="600" height="300" src="pr.png">
-</p>
-3. Who purchased more , men or women in 2022 ?
-4. What are different order statuses ?
+2. Who purchased more , men or women in 2022 ?
+3. What are different order statuses ?
 5. Which are the top 10 states contributing to sales?
 6.  What is the relation between age and gender based on the number of orders?
 7. Which channel is contributing maximum sales ? 
@@ -28,7 +25,9 @@ The project also answered important questions such as :-
 📈 Based on the report insights ,here are the outcomes of the sales :- 
  -
 1. In my report, I found that March has the highest sales and order numbers, while November has the lowest. Additionally, there is a noticeable decline in sales and order quantities after March.
-
+ <p align="center">
+  <img width="600" height="300" src="pr.png">
+</p>
 
 2. Women are more likely to purchase (69%) than men.
 
