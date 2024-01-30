@@ -1,9 +1,9 @@
 # Super Market Data Analysis 
 
-Description :
+Introduction :
 -
 
-Super Market Salse Analysis’ It’s aimed to help the store create an annual sales report , analyze customer behavior and boost customer sales . I performed various tasks such as data understanding, data cleaning ,processing ,analysis ,visualization and report creation. 
+The "Supermarket Sales Analysis" project was undertaken with the objective of assisting the store in generating a comprehensive annual sales report, understanding customer behavior, and enhancing overall customer sales. The project involved a series of tasks, including gaining insights into the data, cleaning and preprocessing the data, conducting in-depth analyses, creating visual representations, and compiling a detailed report. The primary focus was on uncovering patterns in customer behavior that could be leveraged to boost sales. The project encompassed a thorough exploration of the data, ensuring its accuracy and completeness, followed by advanced analytics and the creation of informative visualizations. The ultimate goal is to provide the store with actionable insights that can drive strategic decisions and contribute to the growth and optimization of sales operations.
 
 This project includes steps as follows :
 -
@@ -54,7 +54,7 @@ The project also answered important questions such as :-
 
 7. The 'Set' clothing category received the highest number of orders, comprising 40% of the total.
 
-Final Conclusion
+Conclusion
 -
  The final conclusion to improve store sales is to target women customers of age group (30-49 yrs) living in Maharashtra , Karnataka and Uttar Pradesh by showing ads/offers/coupons available on Amazon ,Flipkart and Myntra.
 
@@ -68,8 +68,8 @@ Final Conclusion
 
 
 
-## Authors
+## Created By
 
-- [@Santanudutta1](https://github.com/SantanuDutta1)
+- [https://github.com/Sanjudebnath123?tab=overview&from=2024-01-01&to=2024-01-30)https://github.com/Sanjudebnath123?tab=overview&from=2024-01-01&to=2024-01-30]
 
-Santanu Dutta - Data Analyst - Santanu Data - All work
+Sanju Debnath - Data Analyst
